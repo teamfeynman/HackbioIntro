@@ -8,6 +8,6 @@ int main(void)
     cout<<"Email:  habentickheir.ht@gmail.com"<< endl;
     cout.width(24);
     cout<<"Slack username:  @HabenTick" <<endl;
-    cout<<"Biostack:  Science communication" <<endl;
+    cout<<"Biostack:  Microbiology" <<endl;
     return 0;
 }
