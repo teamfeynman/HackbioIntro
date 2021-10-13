@@ -1,6 +1,6 @@
 # welcome world
 # My first assignment
-This is my first resipository
+#This is my first resipository
 #!/usr/bin/env python3
 # Prints out my name, email, language, biostack and slack
 
