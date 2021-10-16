@@ -31,5 +31,6 @@ The main goal of this project is to create a bash script that will clone the rep
 - [x] Bash <img src="https://user-images.githubusercontent.com/92265936/137449468-13461a79-db2e-4144-a0ce-19fa1fd095b8.png" width="20" height="20">
 - [x] HTML <img src="https://user-images.githubusercontent.com/92265936/137452338-612e7a32-34f5-4860-a1f3-fab623081f58.png" width="20" height="20">
 
-The scripts need to be renamed with "script.*filename*" before running the code on file script.sh
+The scripts need to be renamed with "script.*filename*" before running the code on file script.sh and
+
 We have submitted a direct link to the bash script. 
