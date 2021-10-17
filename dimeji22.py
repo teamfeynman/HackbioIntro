@@ -1,8 +1,8 @@
-print ("Name: Otukoya Zulkharnain Oladimeji")
+Name: Otukoya Zulkharnain Oladimeji
 
-print ("Email: otukoya52@gmail.com")
+Email: otukoya52@gmail.com
 
-print ("Slack username: @dimeji22")
+Slack_username: @dimeji22
 
-print ("Biostack: Drug discovery and development")
+Biostack: Drug discovery and development
 
