@@ -1,0 +1,14 @@
+<html>
+
+
+  <script>
+    document.write("Name: Zainab Adamu<br>")
+    document.write("Email: pg4412706.adamu@st.futminna.edu.ng<br>")
+    document.write("Slack Name@biostack: ZainabAdamu@Drug Discovery<br>")
+</script>
+
+
+
+
+
+</html>
