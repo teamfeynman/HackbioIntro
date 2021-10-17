@@ -1,8 +1,10 @@
-Name: Otukoya Zulkharnain Oladimeji
+Name = "Otukoya Z. Oladimeji"
 
-Email: otukoya52@gmail.com
+Email = "otukoya52@gmail.com"
 
-Slack_username: @dimeji22
+Slack_username = "@dimeji22"
 
-Biostack: Drug discovery and development
+Biostack = "Drug discovery and development"
+
+print (Name, Email, Slack_username, Biostack, sep=', ')
 
